@@ -1,0 +1,9 @@
+[package]
+name = "lessons-01-basic-types"
+version = "0.1.0"
+authors = ["pim-pesochek <7115941+pim-pesochek@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
